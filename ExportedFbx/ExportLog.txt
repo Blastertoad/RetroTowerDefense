@@ -1,0 +1,18 @@
+...
+5 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
+
+[StaticMesh] -> "SM_Goal_Ring1.fbx" exported in 0.046875 sec.
+D:\Projects\Git\RetroTowerDefense\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_Goal_Ring2.fbx" exported in 0.015625 sec.
+D:\Projects\Git\RetroTowerDefense\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_Goal_Ring3.fbx" exported in 0.015625 sec.
+D:\Projects\Git\RetroTowerDefense\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_Goal.fbx" exported in 0.0 sec.
+D:\Projects\Git\RetroTowerDefense\ExportedFbx\StaticMesh
+
+[StaticMesh] -> "SM_Goal_Ring4.fbx" exported in 0.0 sec.
+D:\Projects\Git\RetroTowerDefense\ExportedFbx\StaticMesh
+
